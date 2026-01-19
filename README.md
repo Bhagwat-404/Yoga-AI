@@ -9,5 +9,5 @@ This application utilizes **Google MediaPipe** to analyze user movements directl
 ### 🚀 Quick Start
 ```bash
 # Clone, install, and run in one step
-git clone [https://github.com/your-username/yoga-ai-trainer.git](https://github.com/your-username/yoga-ai-trainer.git)
+git clone https://github.com/Bhagwat-404/Yoga-AI.git
 cd yoga-ai-trainer && npm install && npm run dev
